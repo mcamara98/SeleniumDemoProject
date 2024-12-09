@@ -23,12 +23,15 @@ public class LoginPage {
     public WebElement findEmailField () {
         return driver.findElement(emailField);
     }
+
     public WebElement findPasswordField() {
         return driver.findElement(passwordField);
     }
+
     public WebElement findLoginButton() {
         return driver.findElement(loginButton);
     }
+
     public WebElement findErrorMessage() {
        return driver.findElement(errorMessage);
     }
