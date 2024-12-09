@@ -65,12 +65,6 @@
             <artifactId>selenium-java</artifactId>
             <version>LATEST</version> <!-- Automatisch die neueste Version beziehen -->
         </dependency>
-
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-testng</artifactId>
-            <version>7.14.0</version>
-        </dependency>
     </dependencies>
 
     <build>
@@ -88,6 +82,3 @@
         </plugins>
     </build>
 </project>
-
-
-

@@ -2,7 +2,7 @@
 // verwendet wird. Hier definierst du Methoden, die vor (@Before) oder nach (@After) jedem
 // Szenario ausgeführt werden
 
-/*package stepdefinitions;
+package hooks;
 
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -30,4 +30,3 @@ public class Hooks {
     }
 }
 
-*/
